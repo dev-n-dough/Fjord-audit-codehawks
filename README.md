@@ -1,7 +1,6 @@
 # Fjord Token Staking
 
-
-### Prize Pool TO BE FILLED OUT BY CYFRIN
+### Prize Pool
 
 - Total Pool - $20,000
 - H/M -  $16,000
